@@ -7,7 +7,7 @@ from aiogram.filters import Command
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton, \
     BufferedInputFile
 
-BOT_TOKEN = "8385469517:AAEbTF26qAmGYGBvxZ2cerqsKv1ku4u0fkQ"
+
 
 logging.basicConfig(level=logging.INFO)
 
